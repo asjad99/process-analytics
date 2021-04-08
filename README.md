@@ -21,6 +21,18 @@ Resources
 https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050
 
 
+
+## Process Mining in Practice : 
+
+
+#### Process: 
+
+See paper: Process Diagnostics: a Method Based on Process Mining
+Mining Process Mining Practices: An Exploratory Characterization of Information Needs in Process Analytics
+book chapter -  Chapter 9,13,14 of by van der alst 
+book chapter  by marlon dumas 
+
+
 ## Story: 
 
 In this section we tell the following story: 
@@ -35,8 +47,6 @@ In this section we tell the following story:
 
 we  look at the topics most relvant to practiionars (process analysts). i.e how do process analysts conduct a process mining projects: 
 
- - **book chapter** Chapter 9,13,14 of by van der alst 
- - book chapter  by marlon dumas 
 
 
 
