@@ -19,7 +19,7 @@ Resources
 
 
 https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050
-
+http://fundamentals-of-bpm.org/wp-content/uploads/2013/02/EMIT_2013-La-Rosa-Part-1.pdf 
 
 
 ## Process Mining in Practice : 
